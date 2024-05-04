@@ -4,18 +4,23 @@
 download the project via git and follow the instructions given below
 
 1. Initialize a env
+   
     ``` python -m venv venv ```
 
 2. Navigate to the project
+   
     ``` cd django_boilerplate ```
 
 3. Install the required dependencies and packages
+   
     ``` pip install -r requirements.txt ```
 
-4. Migrate the changes 
+4. Migrate the changes
+   
     ``` python3 manage.py migrate ```
 
 5. Run the django server
+    
     ``` python3 manage.py runserver```
 
 
